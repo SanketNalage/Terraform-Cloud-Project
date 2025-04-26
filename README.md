@@ -90,4 +90,11 @@
 <img src="images/Terraform-state-image.png" alt="state" width="500" height="300">
 <br> 
 
-
+## Step-8: Destruction and Deletion
+- Goto -> Workspace -> Settings -> Destruction and Deletion
+- click on **Queue Destroy Plan** to delete the resources on cloud 
+- Goto -> Workspac -> Runs -> Click on **Confirm & Apply**
+- **Add Comment:** Approved for Deletion
+<br>
+<img src="images/Terraform-Destory-image.png" alt="state" width="500" height="300">
+<br> 
